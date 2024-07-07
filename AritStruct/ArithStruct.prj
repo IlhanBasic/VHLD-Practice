@@ -1,0 +1,6 @@
+vhdl work "TwoBitAdder.vhd"
+vhdl work "Reg.vhd"
+vhdl work "LeftShifter2bit.vhd"
+vhdl work "Comparator2bit.vhd"
+vhdl work "clk_divider.vhd"
+vhdl work "ArithStruct.vhd"

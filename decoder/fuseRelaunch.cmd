@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/DECODER_TB_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/DECODER_TB_beh.prj" "work.DECODER_TB" 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/xst"
+elaborate
+-ifn my_fsm4.prj
+-ifmt mixed

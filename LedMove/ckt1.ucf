@@ -1,0 +1,22 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "CLK" LOC = AE14;
+NET "BTN" LOC = AA21;
+NET "C_OUT[7]" LOC = AB7;
+NET "C_OUT[6]" LOC = AB8;
+NET "C_OUT[5]" LOC = AB9;
+NET "C_OUT[4]" LOC = AA9;
+NET "C_OUT[3]" LOC = AA10;
+NET "C_OUT[2]" LOC = AA11;
+NET "C_OUT[1]" LOC = AD12;
+NET "C_OUT[0]" LOC = Y13;
+NET "C_IN[7]" LOC = Y8;
+NET "C_IN[6]" LOC = Y9;
+NET "C_IN[5]" LOC = Y10;
+NET "C_IN[4]" LOC = Y11;
+NET "C_IN[3]" LOC = Y12;
+NET "C_IN[2]" LOC = W11;
+NET "C_IN[1]" LOC = W12;
+NET "C_IN[0]" LOC = W13;
+NET "BTN" CLOCK_DEDICATED_ROUTE = FALSE;

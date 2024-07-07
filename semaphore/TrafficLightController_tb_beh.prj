@@ -1,0 +1,2 @@
+vhdl work "semafor.vhd"
+vhdl work "semafor_tb.vhd"

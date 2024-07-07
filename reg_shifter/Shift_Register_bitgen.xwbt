@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\reg_shifter\Shift_Register.ncd
+OUTFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\reg_shifter\Shift_Register.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\PC\Desktop\Predmeti\II godina\AR2\reg_shifter
+LICENSE=WebPack
+USER_INFO=212992583_0_0_952

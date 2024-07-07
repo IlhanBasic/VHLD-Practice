@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/tb_full_adder_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/tb_full_adder_beh.prj" "work.tb_full_adder" 

@@ -1,0 +1,13 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "inR1[1]" LOC = Y8;
+NET "inR1[0]" LOC = Y9;
+NET "inR2[1]" LOC = Y10;
+NET "inR2[0]" LOC = Y11;
+NET "RESULT[2]" LOC = AB7;
+NET "RESULT[1]" LOC = AB8;
+NET "RESULT[0]" LOC = AB9;
+NET "CLK" LOC = AE14;
+NET "SHL_EN" LOC = Y12;
+NET "SHL_EN" CLOCK_DEDICATED_ROUTE = FALSE;

@@ -1,0 +1,21 @@
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/DECODER.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/DECODER.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg676-4 "DECODER.ngc" DECODER.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o DECODER_map.ncd DECODER.ngd DECODER.pcf 
+par -w -intstyle ise -ol high -t 1 DECODER_map.ncd DECODER.ncd DECODER.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml DECODER.twx DECODER.ncd -o DECODER.twr DECODER.pcf 
+bitgen -intstyle ise -f DECODER.ut DECODER.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc DECODER.ucf -p xc3s1500-fg676-4 "DECODER.ngc" DECODER.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o DECODER_map.ncd DECODER.ngd DECODER.pcf 
+par -w -intstyle ise -ol high -t 1 DECODER_map.ncd DECODER.ncd DECODER.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml DECODER.twx DECODER.ncd -o DECODER.twr DECODER.pcf -ucf DECODER.ucf 
+bitgen -intstyle ise -f DECODER.ut DECODER.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc DECODER.ucf -p xc3s1500-fg676-4 "DECODER.ngc" DECODER.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o DECODER_map.ncd DECODER.ngd DECODER.pcf 
+par -w -intstyle ise -ol high -t 1 DECODER_map.ncd DECODER.ncd DECODER.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml DECODER.twx DECODER.ncd -o DECODER.twr DECODER.pcf -ucf DECODER.ucf 
+bitgen -intstyle ise -f DECODER.ut DECODER.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc DECODER.ucf -p xc3s1500-fg676-4 "DECODER.ngc" DECODER.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o DECODER_map.ncd DECODER.ngd DECODER.pcf 
+par -w -intstyle ise -ol high -t 1 DECODER_map.ncd DECODER.ncd DECODER.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml DECODER.twx DECODER.ncd -o DECODER.twr DECODER.pcf -ucf DECODER.ucf 
+bitgen -intstyle ise -f DECODER.ut DECODER.ncd 

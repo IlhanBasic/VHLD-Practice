@@ -1,0 +1,29 @@
+Command line:
+   MULTIPLEXER_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64497
+
+Mon May 06 18:27:29 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5151.29 Meg
+
+ Total Signals          : 15
+ Total Nets             : 9
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 369
+Total Line Count : 32
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5151.29 Meg
+
+Mon May 06 18:27:53 2024
+

@@ -1,0 +1,38 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" in Library work.
+Entity <FullAdder3Bit> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" Line 20. Undefined symbol 'to_integer'.
+ERROR:HDLParsers:1209 - "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" Line 20. to_integer: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" Line 20. Undefined symbol 'unsigned'.
+ERROR:HDLParsers:1209 - "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" Line 20. unsigned: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.25 secs
+ 
+--> 
+
+Total memory usage is 4469024 kilobytes
+
+Number of errors   :    4 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

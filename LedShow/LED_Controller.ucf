@@ -1,0 +1,17 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "oLED[0]" LOC = AB7;
+NET "oLED[7]" LOC = Y13;
+NET "oLED[6]" LOC = AD12;
+NET "oLED[5]" LOC = AA11;
+NET "oLED[4]" LOC = AA10;
+NET "oLED[3]" LOC = AA9;
+NET "oLED[2]" LOC = AB9;
+NET "oLED[1]" LOC = AB8;
+NET "clk" LOC = AE14;
+NET "rst" LOC = Y8;
+NET "inSTOP" LOC = Y9;
+NET "inRR" LOC = Y10;
+NET "inRL" LOC = Y11;
+NET "inBLINK" LOC = W13;

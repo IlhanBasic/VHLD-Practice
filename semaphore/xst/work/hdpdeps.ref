@@ -1,0 +1,16 @@
+V3 7
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/clock_divider.vhd" 2024/05/27.23:36:26 P.20131013
+EN work/Clock_Divider 1716845795 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1716845796 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/clock_divider.vhd" \
+      EN work/Clock_Divider 1716845795
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/semafor.vhd" 2024/05/27.23:36:00 P.20131013
+EN work/TrafficLightController 1716845797 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/semafor.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TrafficLightController/Behavioral 1716845798 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/semafor.vhd" \
+      EN work/TrafficLightController 1716845797 CP Clock_Divider

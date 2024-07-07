@@ -1,0 +1,17 @@
+V3 9
+FL /home/hamza/VHDL/reg_shifter/Shift_Register.vhd 2024/05/13.19:51:47 P.20131013
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/clock_divider.vhd" 2024/05/21.09:25:48 P.20131013
+EN work/Clock_Divider 1716276362 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1716276363 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/clock_divider.vhd" \
+      EN work/Clock_Divider 1716276362
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/Shift_Register.vhd" 2024/05/21.09:25:10 P.20131013
+EN work/Shift_Register 1716276364 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/Shift_Register.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Shift_Register/Behavioral 1716276365 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/reg_shifter/Shift_Register.vhd" \
+      EN work/Shift_Register 1716276364 CP Clock_Divider
+FL C:/Users/PC/Desktop/VHDL-main/reg_shifter/Shift_Register.vhd 2024/05/16.01:06:03 P.20131013

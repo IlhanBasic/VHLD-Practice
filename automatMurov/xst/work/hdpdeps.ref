@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/automat.vhd" 2024/05/20.21:25:54 P.20131013
+EN work/my_fsm4 1716233183 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/automat.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/my_fsm4/fsm4 1716233184 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/automat.vhd" \
+      EN work/my_fsm4 1716233183 CP Clock_Divider
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/clock_divider.vhd" 2024/05/20.21:26:12 P.20131013
+EN work/Clock_Divider 1716233181 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1716233182 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/automatMurov/clock_divider.vhd" \
+      EN work/Clock_Divider 1716233181

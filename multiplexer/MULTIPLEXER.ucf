@@ -1,0 +1,10 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "A2" LOC = Y10;
+NET "A3" LOC = Y11;
+NET "S0" LOC = W13;
+NET "S1" LOC = W12;
+NET "Y" LOC = AB7;
+NET "A0" LOC = Y8;
+NET "A1" LOC = Y9;

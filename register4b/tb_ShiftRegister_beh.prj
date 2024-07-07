@@ -1,0 +1,3 @@
+vhdl work "clock_divider.vhd"
+vhdl work "registar.vhd"
+vhdl work "registar_tb.vhd"

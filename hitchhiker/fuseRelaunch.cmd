@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/stoperica/tb_Stopwatch_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/stoperica/tb_Stopwatch_beh.prj" "work.tb_Stopwatch" 

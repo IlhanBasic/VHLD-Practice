@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\LedShow\LED_Controller.ncd
+OUTFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\LedShow\LED_Controller.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\PC\Desktop\Predmeti\II godina\AR2\LedShow
+LICENSE=WebPack
+USER_INFO=212992583_0_0_952

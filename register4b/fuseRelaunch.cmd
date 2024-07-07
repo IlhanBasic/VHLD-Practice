@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/registar4b/tb_ShiftRegister_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/registar4b/tb_ShiftRegister_beh.prj" "work.tb_ShiftRegister" 

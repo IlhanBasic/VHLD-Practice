@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller_beh.prj" "work.LED_Controller" 

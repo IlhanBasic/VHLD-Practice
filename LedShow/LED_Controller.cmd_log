@@ -1,0 +1,17 @@
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg676-4 "LED_Controller.ngc" LED_Controller.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o LED_Controller_map.ncd LED_Controller.ngd LED_Controller.pcf 
+par -w -intstyle ise -ol high -t 1 LED_Controller_map.ncd LED_Controller.ncd LED_Controller.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml LED_Controller.twx LED_Controller.ncd -o LED_Controller.twr LED_Controller.pcf 
+bitgen -intstyle ise -f LED_Controller.ut LED_Controller.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc LED_Controller.ucf -p xc3s1500-fg676-4 "LED_Controller.ngc" LED_Controller.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o LED_Controller_map.ncd LED_Controller.ngd LED_Controller.pcf 
+par -w -intstyle ise -ol high -t 1 LED_Controller_map.ncd LED_Controller.ncd LED_Controller.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml LED_Controller.twx LED_Controller.ncd -o LED_Controller.twr LED_Controller.pcf -ucf LED_Controller.ucf 
+bitgen -intstyle ise -f LED_Controller.ut LED_Controller.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/LED_Controller.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc LED_Controller.ucf -p xc3s1500-fg676-4 "LED_Controller.ngc" LED_Controller.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o LED_Controller_map.ncd LED_Controller.ngd LED_Controller.pcf 
+par -w -intstyle ise -ol high -t 1 LED_Controller_map.ncd LED_Controller.ncd LED_Controller.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml LED_Controller.twx LED_Controller.ncd -o LED_Controller.twr LED_Controller.pcf -ucf LED_Controller.ucf 
+bitgen -intstyle ise -f LED_Controller.ut LED_Controller.ncd 

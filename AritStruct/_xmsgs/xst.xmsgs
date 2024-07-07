@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ArithStruct</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/ArithStruct.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/ArithStruct.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ArithStruct/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/ArithStruct.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/ArithStruct.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clock_divider</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/clk_divider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/clk_divider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clock_divider/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/clk_divider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/clk_divider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Comparator2bit</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/Comparator2bit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Comparator2bit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Comparator2bit/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/Comparator2bit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Comparator2bit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/LeftShifter2bit</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/LeftShifter2bit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/LeftShifter2bit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/LeftShifter2bit/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/LeftShifter2bit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/LeftShifter2bit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Reg</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/Reg.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Reg.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Reg/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/Reg.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Reg.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/TwoBitAdder</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/TwoBitAdder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/TwoBitAdder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/TwoBitAdder/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/AritStruct/TwoBitAdder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/TwoBitAdder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/ArithStruct.vhd</arg>&quot; line <arg fmt="%d" index="2">92</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Carry</arg>&apos; of component &apos;<arg fmt="%s" index="4">TwoBitAdder</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">inAdderOp</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">cmpIn</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">10</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

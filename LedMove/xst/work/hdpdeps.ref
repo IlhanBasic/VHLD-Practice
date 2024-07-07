@@ -1,0 +1,18 @@
+V3 9
+FL "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.vhd" 2024/06/19.12:50:44 P.20131013
+FL "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/clock_divider.vhd" 2024/06/19.12:50:50 P.20131013
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.vhd" 2024/06/19.14:04:14 P.20131013
+EN work/ckt1 1718798662 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ckt1/Behavioral 1718798663 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.vhd" \
+      EN work/ckt1 1718798662 CP clock_divider
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/clock_divider.vhd" 2024/06/19.12:50:52 P.20131013
+EN work/clock_divider 1718798660 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_divider/Behavioral 1718798661 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/clock_divider.vhd" \
+      EN work/clock_divider 1718798660

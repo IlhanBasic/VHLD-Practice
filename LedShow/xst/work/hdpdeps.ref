@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Clock_divider.vhd" 2024/05/30.10:21:38 P.20131013
+EN work/Clock_Divider 1717059388 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1717059389 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Clock_divider.vhd" \
+      EN work/Clock_Divider 1717059388
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Led_Show.vhd" 2024/05/30.10:41:53 P.20131013
+EN work/LED_Controller 1717059390 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Led_Show.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/LED_Controller/Behavioral 1717059391 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/LedShow/Led_Show.vhd" \
+      EN work/LED_Controller 1717059390 CP Clock_Divider

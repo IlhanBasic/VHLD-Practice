@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/registar4b/registar.vhd" 2024/05/20.20:51:55 P.20131013
+EN work/ShiftRegister 1716231128 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/registar4b/registar.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ShiftRegister/Behavioral 1716231129 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/ranije/registar4b/registar.vhd" \
+      EN work/ShiftRegister 1716231128

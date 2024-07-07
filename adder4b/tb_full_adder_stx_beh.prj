@@ -1,0 +1,2 @@
+vhdl isim_temp "sabirac4b.vhd"
+vhdl isim_temp "sabirac_tb.vhd"

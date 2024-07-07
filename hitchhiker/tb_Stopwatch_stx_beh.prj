@@ -1,0 +1,3 @@
+vhdl isim_temp "clock_divider.vhd"
+vhdl isim_temp "stoperica.vhd"
+vhdl isim_temp "stoperica_tb.vhd"

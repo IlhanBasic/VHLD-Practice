@@ -1,0 +1,41 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue May 07 08:51:40 2024
+# Process ID: 23052
+# Log file: C:/Users/PC/Desktop/Predmeti/II godina/AR2/multiplexer/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/PC/Desktop/Predmeti/II godina/AR2/multiplexer/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/PC/Desktop/Predmeti/II godina/AR2/multiplexer/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin Y8 [get_ports A0]
+endgroup
+startgroup
+set_property package_pin Y9 [get_ports A1]
+endgroup
+startgroup
+set_property package_pin Y10 [get_ports A2]
+endgroup
+startgroup
+set_property package_pin Y11 [get_ports A3]
+endgroup
+set_property package_pin "" [get_ports [list  S0]]
+set_property package_pin "" [get_ports [list  S1]]
+startgroup
+set_property package_pin W13 [get_ports S0]
+endgroup
+startgroup
+set_property package_pin W12 [get_ports S1]
+endgroup
+startgroup
+set_property package_pin AB7 [get_ports Y]
+endgroup
+startgroup
+set_property package_pin Y8 [get_ports A0]
+endgroup
+startgroup
+set_property package_pin Y9 [get_ports A1]
+endgroup
+save_constraints

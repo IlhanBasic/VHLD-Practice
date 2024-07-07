@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\dekoder\DECODER.ncd
+OUTFILE=C:\Users\PC\Desktop\Predmeti\II godina\AR2\dekoder\DECODER.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\PC\Desktop\Predmeti\II godina\AR2\dekoder
+LICENSE=WebPack
+USER_INFO=212992583_0_0_952

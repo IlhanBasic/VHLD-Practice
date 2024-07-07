@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Desktop/Predmeti/II godina/AR2/automatMurov/my_fsm4_tb_isim_beh.exe" -prj "C:/Users/PC/Desktop/Predmeti/II godina/AR2/automatMurov/my_fsm4_tb_beh.prj" "work.my_fsm4_tb" 

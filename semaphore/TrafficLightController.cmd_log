@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/TrafficLightController.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/semafor/TrafficLightController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg676-4 "TrafficLightController.ngc" TrafficLightController.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o TrafficLightController_map.ncd TrafficLightController.ngd TrafficLightController.pcf 
+par -w -intstyle ise -ol high -t 1 TrafficLightController_map.ncd TrafficLightController.ncd TrafficLightController.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TrafficLightController.twx TrafficLightController.ncd -o TrafficLightController.twr TrafficLightController.pcf 
+bitgen -intstyle ise -f TrafficLightController.ut TrafficLightController.ncd 

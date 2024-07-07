@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/xst"
+elaborate
+-ifn ckt1.prj
+-ifmt mixed

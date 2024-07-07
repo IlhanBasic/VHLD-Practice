@@ -1,0 +1,66 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Jun 19 12:35:57 2024
+# Process ID: 10136
+# Log file: C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin AE14 [get_ports CLK]
+endgroup
+startgroup
+set_property package_pin AA21 [get_ports BTN]
+endgroup
+startgroup
+set_property package_pin AB7 [get_ports {C_OUT[7]}]
+endgroup
+startgroup
+set_property package_pin AB8 [get_ports {C_OUT[6]}]
+endgroup
+startgroup
+set_property package_pin AB9 [get_ports {C_OUT[5]}]
+endgroup
+startgroup
+set_property package_pin AA9 [get_ports {C_OUT[4]}]
+endgroup
+startgroup
+set_property package_pin AA10 [get_ports {C_OUT[3]}]
+endgroup
+startgroup
+set_property package_pin AA11 [get_ports {C_OUT[2]}]
+endgroup
+startgroup
+set_property package_pin AD12 [get_ports {C_OUT[1]}]
+endgroup
+startgroup
+set_property package_pin Y13 [get_ports {C_OUT[0]}]
+endgroup
+startgroup
+set_property package_pin Y8 [get_ports {C_IN[7]}]
+endgroup
+startgroup
+set_property package_pin Y9 [get_ports {C_IN[6]}]
+endgroup
+startgroup
+set_property package_pin Y10 [get_ports {C_IN[5]}]
+endgroup
+startgroup
+set_property package_pin Y11 [get_ports {C_IN[4]}]
+endgroup
+startgroup
+set_property package_pin Y12 [get_ports {C_IN[3]}]
+endgroup
+startgroup
+set_property package_pin W11 [get_ports {C_IN[2]}]
+endgroup
+startgroup
+set_property package_pin W12 [get_ports {C_IN[1]}]
+endgroup
+startgroup
+set_property package_pin W13 [get_ports {C_IN[0]}]
+endgroup
+save_constraints

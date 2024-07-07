@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue May 07 08:37:08 2024
+# Process ID: 2532
+# Log file: C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/PC/Desktop/Predmeti/II godina/AR2/dekoder/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin Y8 [get_ports X0]
+endgroup
+startgroup
+set_property package_pin Y9 [get_ports X1]
+endgroup
+startgroup
+set_property package_pin AB7 [get_ports Y0]
+endgroup
+startgroup
+set_property package_pin AB8 [get_ports Y1]
+endgroup
+startgroup
+set_property package_pin AB9 [get_ports Y2]
+endgroup
+startgroup
+set_property package_pin AA7 [get_ports Y3]
+endgroup
+save_constraints
+startgroup
+set_property package_pin Y8 [get_ports X0]
+endgroup
+startgroup
+set_property package_pin Y9 [get_ports X1]
+endgroup
+startgroup
+set_property package_pin AB7 [get_ports Y0]
+endgroup
+startgroup
+set_property package_pin AB8 [get_ports Y1]
+endgroup
+startgroup
+set_property package_pin AB9 [get_ports Y2]
+endgroup
+startgroup
+set_property package_pin AA7 [get_ports Y3]
+endgroup
+save_constraints

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ISPIUTZ1TB_isim_beh.exe" -prj "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ISPIUTZ1TB_beh.prj" "work.ISPIUTZ1TB" 

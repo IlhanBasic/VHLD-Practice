@@ -1,0 +1,29 @@
+Command line:
+   tb_Stopwatch_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52426
+
+Mon May 20 21:16:45 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.85 Meg
+
+ Total Signals          : 24
+ Total Nets             : 76
+ Total Signal Drivers   : 13
+ Total Blocks           : 8
+ Total Primitive Blocks : 6
+ Total Processes        : 6
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 581
+Total Line Count : 53
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4993.56 Meg
+
+Mon May 20 21:18:07 2024
+

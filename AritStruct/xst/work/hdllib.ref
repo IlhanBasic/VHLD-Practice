@@ -1,0 +1,12 @@
+EN arithstruct NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/ArithStruct.vhd" sub00/vhpl10 1717069044
+AR reg behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Reg.vhd" sub00/vhpl03 1717069037
+AR clock_divider behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/clk_divider.vhd" sub00/vhpl01 1717069035
+AR arithstruct behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/ArithStruct.vhd" sub00/vhpl11 1717069045
+AR comparator2bit behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Comparator2bit.vhd" sub00/vhpl09 1717069043
+EN clock_divider NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/clk_divider.vhd" sub00/vhpl00 1717069034
+EN comparator2bit NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Comparator2bit.vhd" sub00/vhpl08 1717069042
+AR twobitadder behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/TwoBitAdder.vhd" sub00/vhpl05 1717069039
+EN leftshifter2bit NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/LeftShifter2bit.vhd" sub00/vhpl06 1717069040
+AR leftshifter2bit behavioral "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/LeftShifter2bit.vhd" sub00/vhpl07 1717069041
+EN twobitadder NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/TwoBitAdder.vhd" sub00/vhpl04 1717069038
+EN reg NULL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/AritStruct2/Reg.vhd" sub00/vhpl02 1717069036

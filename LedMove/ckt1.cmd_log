@@ -1,0 +1,70 @@
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+xst -intstyle ise -ifn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.xst" -ofn "C:/Users/Korisnik/OneDrive/Desktop/Xillinx share/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 
+xst -intstyle ise -ifn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.xst" -ofn "C:/Users/PC/Desktop/Predmeti/II godina/AR2/IspitZ1/ckt1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ckt1.ucf -p xc3s1500-fg676-4 "ckt1.ngc" ckt1.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o ckt1_map.ncd ckt1.ngd ckt1.pcf 
+par -w -intstyle ise -ol high -t 1 ckt1_map.ncd ckt1.ncd ckt1.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ckt1.twx ckt1.ncd -o ckt1.twr ckt1.pcf -ucf ckt1.ucf 
+bitgen -intstyle ise -f ckt1.ut ckt1.ncd 

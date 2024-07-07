@@ -1,0 +1,11 @@
+V3 5
+FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" 2024/05/21.08:55:49 P.20131013
+EN work/FullAdder3Bit 0 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" \
+      PB ieee/std_logic_1164 1381692176
+EN work/full_adder 1716274552 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/full_adder/Behavioral 1716274553 \
+      FL "C:/Users/PC/Desktop/Predmeti/II godina/AR2/sabirac4b/sabirac4b.vhd" \
+      EN work/full_adder 1716274552
